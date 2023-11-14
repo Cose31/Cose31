@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cose31
-- 👀 I’m interested in gaming, program engines (UnReal, Unity, etc.), and computer technology.
-- 🌱 I’m currently learning JavaScript and expanding on my knowledge of the C++ computing language.
-- 💞️ I’m looking to collaborate on possible summer internships involving programming, testing or troubleshooting code for software.
+- 👀 I’m interested in gaming, program engines (UnReal, Unity, etc.), computer technology and embedded system design.
+- 🌱 I’m currently learning JavaScript, MySQL, and React as well as expanding on my knowledge of C++, Java and Rust.
+- 💞️ I’m looking to collaborate on possible summer internships involving programming, testing, or troubleshooting code for software and/or any embedded design projects.
 - 📫 How to reach me: email: pryor.ryan31@gmail.com
 
 <!---
